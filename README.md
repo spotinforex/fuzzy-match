@@ -1,4 +1,4 @@
-# fuzzy_match
+# fuzzy match
 
 A CLI tool that fuzzy-matches full names across two Excel sheets and outputs a color-coded results spreadsheet with match scores.
 
